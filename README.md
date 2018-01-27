@@ -1,2 +1,2 @@
-# Cloud-server-access
-Accessing google cloud server and exchanging data through HTTP client-server protocol.
+# Client-Server communication through sockets
+Simple program to establish basic socket communication between client and server.
